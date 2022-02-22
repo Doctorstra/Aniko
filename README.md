@@ -49,7 +49,7 @@ And Copy All of The Varibles Given Below And Add in there<br>
 
 > Deploy By Click
 
-<a href="https://heroku.com/deploy?template=https://github.com/rohith-sreedharan/Aniko">
+<a href="https://heroku.com/deploy?template=https://github.com/Doctorstra/Aniko">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </details>
